@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-redux-trello-localStore/static/css/main.9f088a99.css",
+    "main.js": "/react-redux-trello-localStore/static/js/main.0f42a4cf.js",
+    "index.html": "/react-redux-trello-localStore/index.html",
+    "static/media/trello-icons.svg": "/react-redux-trello-localStore/static/media/trello-icons.a585be9446919e10aea485001e33ab0e.svg",
+    "main.9f088a99.css.map": "/react-redux-trello-localStore/static/css/main.9f088a99.css.map",
+    "main.0f42a4cf.js.map": "/react-redux-trello-localStore/static/js/main.0f42a4cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.0f42a4cf.js"
+  ]
+}
